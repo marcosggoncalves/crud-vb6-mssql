@@ -20,6 +20,7 @@ Module=APISITE; APISITE.bas
 IconForm="CadastrarVeiculo"
 Startup="CadastrarVeiculo"
 HelpFile=""
+Title="Project1"
 ExeName32="Project1.exe"
 Path32="..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\VB98"
 Command32=""
